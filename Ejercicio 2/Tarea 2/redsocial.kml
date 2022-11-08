@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Placemark>
+<name>Pablo</name>
+<description>Nacimiento: Leon</description>
+<Point>
+<coordinates>-5.587750454882339,42.58378069349824,0</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+<Placemark>
+<name>Pablo</name>
+<description>Reside: Valladolid</description>
+<Point>
+<coordinates>-4.741176777954699,41.643777379048075,0</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+<Placemark>
+<name>Risto</name>
+<description>Nacimiento: Paris</description>
+<Point>
+<coordinates>2.259217945642413,48.81104412080502,0</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+<Placemark>
+<name>Risto</name>
+<description>Reside: Lyon</description>
+<Point>
+<coordinates>4.8758589359738105,45.74641168677539,0</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+<Placemark>
+<name>Charles</name>
+<description>Nacimiento: Monaco</description>
+<Point>
+<coordinates>7.035723445540587,43.60467082383504,0</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+<Placemark>
+<name>Charles</name>
+<description>Reside: Monaco</description>
+<Point>
+<coordinates>7.035723445540587,43.60467082383504,0</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+<Placemark>
+<name>Charles</name>
+<description>Nacimiento: Barcelona</description>
+<Point>
+<coordinates>2.1249468262940967,41.40164699766722,0</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+<Placemark>
+<name>Charles</name>
+<description>Reside: Barcelona</description>
+<Point>
+<coordinates>2.1249468262940967,41.40164699766722,0</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+<Placemark>
+<name>Marta</name>
+<description>Nacimiento: Salamanca</description>
+<Point>
+<coordinates>-5.673896457382607,40.947276319501576,0</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+<Placemark>
+<name>Marta</name>
+<description>Reside: Sevilla</description>
+<Point>
+<coordinates>-5.965679477848744,37.37452863427277,0</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+<Placemark>
+<name>Rafa</name>
+<description>Nacimiento: Leon</description>
+<Point>
+<coordinates>-5.587750454882339,42.58378069349824,0</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+<Placemark>
+<name>Rafa</name>
+<description>Reside: Sevilla</description>
+<Point>
+<coordinates>-5.965679477848744,37.37452863427277,0</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+<Placemark>
+<name>Joaquin</name>
+<description>Nacimiento: Leon</description>
+<Point>
+<coordinates>-5.587750454882339,42.58378069349824,0</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+<Placemark>
+<name>Joaquin</name>
+<description>Reside: Sevilla</description>
+<Point>
+<coordinates>-5.965679477848744,37.37452863427277,0</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+<Placemark>
+<name>Marta</name>
+<description>Nacimiento: Oviedo</description>
+<Point>
+<coordinates>-5.849154952690233,43.36880577120749,0</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+<Placemark>
+<name>Marta</name>
+<description>Reside: Monaco</description>
+<Point>
+<coordinates>7.035723445540587,43.60467082383504,0</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+<Placemark>
+<name>Luismi</name>
+<description>Nacimiento: Leon</description>
+<Point>
+<coordinates>-5.587750454882339,42.58378069349824,0</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+<Placemark>
+<name>Luismi</name>
+<description>Reside: Oviedo</description>
+<Point>
+<coordinates>-5.849154952690233,43.36880577120749,0</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+<Placemark>
+<name>Turez</name>
+<description>Nacimiento: Lyon</description>
+<Point>
+<coordinates>4.8758589359738105,45.74641168677539,0</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+<Placemark>
+<name>Turez</name>
+<description>Reside: Leon</description>
+<Point>
+<coordinates>-5.587750454882339,42.58378069349824,0</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+<Placemark>
+<name>Manu</name>
+<description>Nacimiento: Paris</description>
+<Point>
+<coordinates>2.259217945642413,48.81104412080502,0</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+<Placemark>
+<name>Manu</name>
+<description>Reside: Paris</description>
+<Point>
+<coordinates>2.259217945642413,48.81104412080502,0</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+<Placemark>
+<name>Fulgencio</name>
+<description>Nacimiento: Madrid</description>
+<Point>
+<coordinates>-3.7159995162888815,40.36685032559816,0</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+<Placemark>
+<name>Fulgencio</name>
+<description>Reside: Madrid</description>
+<Point>
+<coordinates>-3.7159995162888815,40.36685032559816,0</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+</Document></kml>

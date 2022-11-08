@@ -1,0 +1,52 @@
+/*Sergio Buenaga Gutierrez UO271572
+DESCRIPCION DE LOS ESTILOS QUE SE APLICARAN
+count the number of ID selectors in the selector (= a)
+count the number of class selectors, attributes selectors, and pseudo-classes in the selector (= b)
+count the number of type selectors and pseudo-elements in the selector (= c)
+
+SOLO SE PERMITE GRID multicol Y flexbox
+
+ej para hacer una estructura con grid con una plantilla para la pagina
+body
+display:grid;
+grid-template-area: 'header header header','menu right right','menu footer footer footer';
+en las secciones llamar: header{grid-area:header}
+
+para quitar bloques anonimos div, elementos con clas habra que embolsarlos en otro elemento section, body etc
+*/
+
+/* a=0 b=0 c=1 -> specificity =   1 */
+body {
+    color: rgb(0, 0, 0);
+    background-color: #222831;
+    font-family: 'Times New Roman', Times,serif, 'Comic Sans';
+    font-size: 1em;
+    padding:0;
+    margin:0;
+}
+/*Specificidad 001*/
+header{
+    background-color: #222831;
+    color: #EEEEEE;
+    text-align: center;
+}
+/*Specificidad 001*/
+section{
+    color: black;
+    background-color: #00ADB5;
+    text-align: left;
+}
+/*Specificidad 001*/
+h3{
+    color: #3D3D3D;
+    background-color: #24FF3D;
+}
+/*Specificidad 001*/
+a{
+    color: white;
+    background-color: #222831;}
+/*Specificidad 001*/
+footer{
+    color: white;
+    background-color: #222831;
+}

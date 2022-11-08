@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="no"?>
+<svg style="overflow:visible" xmlns="http://www.w3.org/2000/svg" version="1.1" width="auto" height="auto">
+<rect x="470.0" y="170" width="150" height="50" fill="yellow" stroke="navy" stroke-width="5" />
+<text x = "500.0" y = "200" fill = "black" font-size = "1em">Fulgencio</text>
+<line x1="500.0" y1="220" stroke="blue" x2="250.0" y2="400" stroke-width="5"></line>
+<rect x="220.0" y="370" width="100" height="50" fill="yellow" stroke="navy" stroke-width="5" />
+<text x = "250.0" y = "400" fill = "black" font-size = "1em" >Pablo</text>
+<line x1="250.0" y1="420" stroke="blue" x2="106.66666666666667" y2="700" stroke-width="5"></line>
+<rect x="76.66666666666667" y="670" width="100" height="50" fill="yellow" stroke="navy" stroke-width="5" />
+<text x = "106.66666666666667" y = "700" fill = "black" font-size = "1em" >Risto</text>
+<line x1="250.0" y1="420" stroke="blue" x2="213.33333333333334" y2="700" stroke-width="5"></line>
+<rect x="183.33333333333334" y="670" width="100" height="50" fill="yellow" stroke="navy" stroke-width="5" />
+<text x = "213.33333333333334" y = "700" fill = "black" font-size = "1em" >Charles</text>
+<line x1="250.0" y1="420" stroke="blue" x2="320.0" y2="700" stroke-width="5"></line>
+<rect x="290.0" y="670" width="100" height="50" fill="yellow" stroke="navy" stroke-width="5" />
+<text x = "320.0" y = "700" fill = "black" font-size = "1em" >Charles</text>
+<line x1="500.0" y1="220" stroke="blue" x2="500.0" y2="400" stroke-width="5"></line>
+<rect x="470.0" y="370" width="100" height="50" fill="yellow" stroke="navy" stroke-width="5" />
+<text x = "500.0" y = "400" fill = "black" font-size = "1em" >Marta</text>
+<line x1="500.0" y1="420" stroke="blue" x2="426.6666666666667" y2="700" stroke-width="5"></line>
+<rect x="396.6666666666667" y="670" width="100" height="50" fill="yellow" stroke="navy" stroke-width="5" />
+<text x = "426.6666666666667" y = "700" fill = "black" font-size = "1em" >Rafa</text>
+<line x1="500.0" y1="420" stroke="blue" x2="533.3333333333334" y2="700" stroke-width="5"></line>
+<rect x="503.33333333333337" y="670" width="100" height="50" fill="yellow" stroke="navy" stroke-width="5" />
+<text x = "533.3333333333334" y = "700" fill = "black" font-size = "1em" >Joaquin</text>
+<line x1="500.0" y1="420" stroke="blue" x2="640.0" y2="700" stroke-width="5"></line>
+<rect x="610.0" y="670" width="100" height="50" fill="yellow" stroke="navy" stroke-width="5" />
+<text x = "640.0" y = "700" fill = "black" font-size = "1em" >Marta</text>
+<line x1="500.0" y1="220" stroke="blue" x2="750.0" y2="400" stroke-width="5"></line>
+<rect x="720.0" y="370" width="100" height="50" fill="yellow" stroke="navy" stroke-width="5" />
+<text x = "750.0" y = "400" fill = "black" font-size = "1em" >Luismi</text>
+<line x1="750.0" y1="420" stroke="blue" x2="746.6666666666666" y2="700" stroke-width="5"></line>
+<rect x="716.6666666666666" y="670" width="100" height="50" fill="yellow" stroke="navy" stroke-width="5" />
+<text x = "746.6666666666666" y = "700" fill = "black" font-size = "1em" >Turez</text>
+<line x1="750.0" y1="420" stroke="blue" x2="853.3333333333333" y2="700" stroke-width="5"></line>
+<rect x="823.3333333333333" y="670" width="100" height="50" fill="yellow" stroke="navy" stroke-width="5" />
+<text x = "853.3333333333333" y = "700" fill = "black" font-size = "1em" >Manu</text>
+<line x1="750.0" y1="420" stroke="blue" x2="959.9999999999999" y2="700" stroke-width="5"></line>
+<rect x="929.9999999999999" y="670" width="100" height="50" fill="yellow" stroke="navy" stroke-width="5" />
+<text x = "959.9999999999999" y = "700" fill = "black" font-size = "1em" >Fulgencio</text>
+</svg>

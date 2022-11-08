@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE persona SYSTEM "redsocial.dtd">
+
+<persona nombre = "Fulgencio" apellidos="Estrada">
+    <datos>
+        <nacimiento>
+            <fechaNacimiento>7-10-2000</fechaNacimiento>
+            <lugarNacimiento>Colloto</lugarNacimiento>
+            <coordenadasNacimiento>
+                <longitud>-5.794783151573485</longitud>
+                <latitud>43.3786951610564</latitud>
+                <altitud>0</altitud>
+            </coordenadasNacimiento>
+        </nacimiento>
+        <residencia lugarResidencia="Oviedo">
+            <coordenadasResidencia>
+                <longitud>-5.849154952690233</longitud>
+                <latitud>43.36880577120749</latitud>
+                <altitud>0</altitud>
+            </coordenadasResidencia>
+        </residencia>
+        <!--Minimo 1 imagen-->
+        <imagenes>
+            <foto>imagen1.png</foto>
+        </imagenes>
+        <!--de 0 a 3 videos-->
+        <videos>
+            <video>video1.mp4</video>
+            <video>video2.mp4</video>
+            <video>video3.mp4</video>
+        </videos>
+        <!--Tiene comentarios o no tiene-->
+        <comentarios>
+            <comentario>Comentario 1</comentario>
+            <comentario>Comentario 2</comentario>
+            <comentario>Comentario 3</comentario>
+            <comentario>Comentario 4</comentario>
+        </comentarios>
+    </datos>
+    <!--Pueden enlazarse 3 personas-->
+    <persona nombre = "Pablo" apellidos="Rubicon">
+        <datos>
+            <nacimiento>
+                <fechaNacimiento>7-10-1996</fechaNacimiento>
+                <lugarNacimiento>Leon</lugarNacimiento>
+                <coordenadasNacimiento>
+                    <longitud>-5.587750454882339</longitud>
+                    <latitud>42.58378069349824</latitud>
+                    <altitud>0</altitud>
+                </coordenadasNacimiento>
+            </nacimiento>
+            <residencia lugarResidencia="Valladolid">
+                <coordenadasResidencia>
+                    <longitud>-4.741176777954699</longitud>
+                    <latitud>41.643777379048075</latitud>
+                    <altitud>0</altitud>
+                </coordenadasResidencia>
+            </residencia>
+            <!--Minimo 1 imagen-->
+            <imagenes>
+                <foto>imagen1.png</foto>
+                <foto>imagen2.png</foto>
+                <foto>imagen3.png</foto>
+            </imagenes>
+            <!--de 0 a 3 videos-->
+            <videos>
+                <video>video3.mp4</video>
+            </videos>
+            <!--Tiene comentarios o no tiene-->
+            <comentarios>
+                <comentario>Comentario 4</comentario>
+            </comentarios>
+        </datos>
+        <!--Pueden enlazarse 3 personas-->
+        <persona nombre = "Risto" apellidos="Mejide">
+            <datos>
+                <nacimiento>
+                    <fechaNacimiento>1-4-2001</fechaNacimiento>
+                    <lugarNacimiento>Paris</lugarNacimiento>
+                    <coordenadasNacimiento>
+                        <longitud>2.259217945642413</longitud>
+                        <latitud>48.81104412080502</latitud>
+                        <altitud>0</altitud>
+                    </coordenadasNacimiento>
+                </nacimiento>
+                <residencia lugarResidencia="Lyon">
+                    <coordenadasResidencia>
+                        <longitud>4.8758589359738105</longitud>
+                        <latitud>45.74641168677539</latitud>
+                        <altitud>0</altitud>
+                    </coordenadasResidencia>
+                </residencia>
+                <!--Minimo 1 imagen-->
+                <imagenes>
+                    <foto>imagen3.png</foto>
+                </imagenes>
+                <!--de 0 a 3 videos-->
+                <videos>
+        
+                </videos>
+                <!--Tiene comentarios o no tiene-->
+                <comentarios>
+                    <comentario>Comentario 1</comentario>
+                    <comentario>Comentario 2</comentario>
+                    <comentario>Comentario 3</comentario>
+                    <comentario>Comentario 4</comentario>
+                </comentarios>
+            </datos>
+            <!--Pueden enlazarse 3 personas-->
+        </persona>
+        <persona nombre = "Charles" apellidos="Leclerc">
+            <datos>
+                <nacimiento>
+                    <fechaNacimiento>20-6-2000</fechaNacimiento>
+                    <lugarNacimiento>Monaco</lugarNacimiento>
+                    <coordenadasNacimiento>
+                        <longitud>7.035723445540587</longitud>
+                        <latitud>43.60467082383504</latitud>
+                        <altitud>0</altitud>
+                    </coordenadasNacimiento>
+                </nacimiento>
+                <residencia lugarResidencia="Monaco">
+                    <coordenadasResidencia>
+                        <longitud>7.035723445540587</longitud>
+                        <latitud>43.60467082383504</latitud>
+                        <altitud>0</altitud>
+                    </coordenadasResidencia>
+                </residencia>
+                <!--Minimo 1 imagen-->
+                <imagenes>
+                    <foto>imagen1.png</foto>
+                    <foto>imagen2.png</foto>
+                    <foto>imagen3.png</foto>
+                </imagenes>
+                <!--de 0 a 3 videos-->
+                <videos>
+        
+                </videos>
+                <!--Tiene comentarios o no tiene-->
+                <comentarios>
+                    <comentario>Comentario 3</comentario>
+                    <comentario>Comentario 4</comentario>
+                </comentarios>
+            </datos>
+            <!--Pueden enlazarse 3 personas-->
+        </persona>
+        <persona nombre = "Charles" apellidos="Puyol">
+            <datos>
+                <nacimiento>
+                    <fechaNacimiento>7-10-2000</fechaNacimiento>
+                    <lugarNacimiento>Barcelona</lugarNacimiento>
+                    <coordenadasNacimiento>
+                        <longitud>2.1249468262940967</longitud>
+                        <latitud>41.40164699766722</latitud>
+                        <altitud>0</altitud>
+                    </coordenadasNacimiento>
+                </nacimiento>
+                <residencia lugarResidencia="Barcelona">
+                    <coordenadasResidencia>
+                        <longitud>2.1249468262940967</longitud>
+                        <latitud>41.40164699766722</latitud>
+                        <altitud>0</altitud>
+                    </coordenadasResidencia>
+                </residencia>
+                <!--Minimo 1 imagen-->
+                <imagenes>
+                    <foto>imagen1.png</foto>
+                    <foto>imagen3.png</foto>
+                </imagenes>
+                <!--de 0 a 3 videos-->
+                <videos>
+                    <video>video1.mp4</video>
+                    <video>video2.mp4</video>
+                    <video>video3.mp4</video>
+                </videos>
+                <!--Tiene comentarios o no tiene-->
+                <comentarios>
+                    <comentario>Comentario 1</comentario>
+                    <comentario>Comentario 4</comentario>
+                </comentarios>
+            </datos>
+            <!--Pueden enlazarse 3 personas-->
+        </persona>
+    </persona>
+    <persona nombre = "Marta" apellidos="Ortin">
+        <datos>
+            <nacimiento>
+                <fechaNacimiento>6-6-1998</fechaNacimiento>
+                <lugarNacimiento>Salamanca</lugarNacimiento>
+                <coordenadasNacimiento>
+                    <longitud>-5.673896457382607</longitud>
+                    <latitud>40.947276319501576</latitud>
+                    <altitud>0</altitud>
+                </coordenadasNacimiento>
+            </nacimiento>
+            <residencia lugarResidencia="Sevilla">
+                <coordenadasResidencia>
+                    <longitud>-5.965679477848744</longitud>
+                    <latitud>37.37452863427277</latitud>
+                    <altitud>0</altitud>
+                </coordenadasResidencia>
+            </residencia>
+            <!--Minimo 1 imagen-->
+            <imagenes>
+                <foto>imagen3.png</foto>
+            </imagenes>
+            <!--de 0 a 3 videos-->
+            <videos>
+                <video>video1.mp4</video>
+                <video>video3.mp4</video>
+            </videos>
+            <!--Tiene comentarios o no tiene-->
+            <comentarios>
+                <comentario>Comentario 1</comentario>
+                <comentario>Comentario 2</comentario>
+                <comentario>Comentario 3</comentario>
+                <comentario>Comentario 4</comentario>
+            </comentarios>
+        </datos>
+        <!--Pueden enlazarse 3 personas-->
+        <persona nombre = "Rafa" apellidos="Mora">
+            <datos>
+                <nacimiento>
+                    <fechaNacimiento>7-10-2005</fechaNacimiento>
+                    <lugarNacimiento>Leon</lugarNacimiento>
+                <coordenadasNacimiento>
+                    <longitud>-5.587750454882339</longitud>
+                    <latitud>42.58378069349824</latitud>
+                    <altitud>0</altitud>
+                </coordenadasNacimiento>
+                </nacimiento>
+                <residencia lugarResidencia="Sevilla">
+                    <coordenadasResidencia>
+                        <longitud>-5.965679477848744</longitud>
+                        <latitud>37.37452863427277</latitud>
+                        <altitud>0</altitud>
+                    </coordenadasResidencia>
+                </residencia>
+                <!--Minimo 1 imagen-->
+                <imagenes>
+                    <foto>imagen1.png</foto>
+                    <foto>imagen2.png</foto>
+                    <foto>imagen3.png</foto>
+                </imagenes>
+                <!--de 0 a 3 videos-->
+                <videos>
+                    <video>video1.mp4</video>
+                    <video>video2.mp4</video>
+                </videos>
+                <!--Tiene comentarios o no tiene-->
+                <comentarios>
+                    <comentario>Comentario 1</comentario>
+                    <comentario>Comentario 2</comentario>
+                    <comentario>Comentario 3</comentario>
+                    <comentario>Comentario 4</comentario>
+                </comentarios>
+            </datos>
+            <!--Pueden enlazarse 3 personas-->
+        </persona>
+        <persona nombre = "Joaquin" apellidos="Lus">
+            <datos>
+                <nacimiento>
+                    <fechaNacimiento>7-1-2002</fechaNacimiento>
+                    <lugarNacimiento>Leon</lugarNacimiento>
+                <coordenadasNacimiento>
+                    <longitud>-5.587750454882339</longitud>
+                    <latitud>42.58378069349824</latitud>
+                    <altitud>0</altitud>
+                </coordenadasNacimiento>
+                </nacimiento>
+                <residencia lugarResidencia="Sevilla">
+                    <coordenadasResidencia>
+                        <longitud>-5.965679477848744</longitud>
+                        <latitud>37.37452863427277</latitud>
+                        <altitud>0</altitud>
+                    </coordenadasResidencia>
+                </residencia>
+                <!--Minimo 1 imagen-->
+                <imagenes>
+                    <foto>imagen1.png</foto>
+                    <foto>imagen2.png</foto>
+                    <foto>imagen3.png</foto>
+                </imagenes>
+                <!--de 0 a 3 videos-->
+                <videos>
+                    <video>video1.mp4</video>
+                    <video>video2.mp4</video>
+                    <video>video3.mp4</video>
+                </videos>
+                <!--Tiene comentarios o no tiene-->
+                <comentarios>
+                    <comentario>Comentario 1</comentario>
+                    <comentario>Comentario 2</comentario>
+                    <comentario>Comentario 3</comentario>
+                    <comentario>Comentario 4</comentario>
+                </comentarios>
+            </datos>
+            <!--Pueden enlazarse 3 personas-->
+        </persona>
+        <persona nombre = "Marta" apellidos="Diaz">
+            <datos>
+                <nacimiento>
+                    <fechaNacimiento>21-9-1978</fechaNacimiento>
+                    <lugarNacimiento>Oviedo</lugarNacimiento>
+                    <coordenadasNacimiento>
+                        <longitud>-5.849154952690233</longitud>
+                        <latitud>43.36880577120749</latitud>
+                        <altitud>0</altitud>
+                    </coordenadasNacimiento>
+                </nacimiento>
+                <residencia lugarResidencia="Monaco">
+                    <coordenadasResidencia>
+                        <longitud>7.035723445540587</longitud>
+                        <latitud>43.60467082383504</latitud>
+                        <altitud>0</altitud>
+                    </coordenadasResidencia>
+                </residencia>
+                <!--Minimo 1 imagen-->
+                <imagenes>
+                    <foto>imagen2.png</foto>
+                </imagenes>
+                <!--de 0 a 3 videos-->
+                <videos>
+        
+                </videos>
+                <!--Tiene comentarios o no tiene-->
+                <comentarios>
+                    <comentario>Comentario 2</comentario>
+                    <comentario>Comentario 4</comentario>
+                </comentarios>
+            </datos>
+            <!--Pueden enlazarse 3 personas-->
+        </persona>
+    </persona>
+    <persona nombre = "Luismi" apellidos="Mirando">
+        <datos>
+            <nacimiento>
+                <fechaNacimiento>7-8-1996</fechaNacimiento>
+                <lugarNacimiento>Leon</lugarNacimiento>
+                <coordenadasNacimiento>
+                    <longitud>-5.587750454882339</longitud>
+                    <latitud>42.58378069349824</latitud>
+                    <altitud>0</altitud>
+                </coordenadasNacimiento>
+            </nacimiento>
+            <residencia lugarResidencia="Oviedo">
+                <coordenadasResidencia>
+                    <longitud>-5.849154952690233</longitud>
+                    <latitud>43.36880577120749</latitud>
+                    <altitud>0</altitud>
+                </coordenadasResidencia>
+            </residencia>
+            <!--Minimo 1 imagen-->
+            <imagenes>
+                <foto>imagen1.png</foto>
+            </imagenes>
+            <!--de 0 a 3 videos-->
+            <videos>
+                <video>video1.mp4</video>
+                <video>video2.mp4</video>
+            </videos>
+            <!--Tiene comentarios o no tiene-->
+            <comentarios>
+                <comentario>Comentario 4</comentario>
+            </comentarios>
+        </datos>
+        <!--Pueden enlazarse 3 personas-->
+        <persona nombre = "Turez" apellidos="Potacsio">
+            <datos>
+                <nacimiento>
+                    <fechaNacimiento>7-10-2000</fechaNacimiento>
+                    <lugarNacimiento>Lyon</lugarNacimiento>
+                    <coordenadasNacimiento>
+                        <longitud>4.8758589359738105</longitud>
+                        <latitud>45.74641168677539</latitud>
+                        <altitud>0</altitud>
+                    </coordenadasNacimiento>
+                </nacimiento>
+                <residencia lugarResidencia="Leon">
+                    <coordenadasResidencia>
+                        <longitud>-5.587750454882339</longitud>
+                        <latitud>42.58378069349824</latitud>
+                        <altitud>0</altitud>
+                    </coordenadasResidencia>
+                </residencia>
+                <!--Minimo 1 imagen-->
+                <imagenes>
+                    <foto>imagen3.png</foto>
+                </imagenes>
+                <!--de 0 a 3 videos-->
+                <videos>
+                    <video>video1.mp4</video>
+                    <video>video2.mp4</video>
+                    <video>video3.mp4</video>
+                </videos>
+                <!--Tiene comentarios o no tiene-->
+                <comentarios>
+                    <comentario>Comentario 1</comentario>
+                    <comentario>Comentario 2</comentario>
+                    <comentario>Comentario 3</comentario>
+                    <comentario>Comentario 4</comentario>
+                </comentarios>
+            </datos>
+            <!--Pueden enlazarse 3 personas-->
+        </persona>
+        <persona nombre = "Manu" apellidos="Vega">
+            <datos>
+                <nacimiento>
+                    <fechaNacimiento>7-10-2000</fechaNacimiento>
+                    <lugarNacimiento>Paris</lugarNacimiento>
+                    <coordenadasNacimiento>
+                        <longitud>2.259217945642413</longitud>
+                        <latitud>48.81104412080502</latitud>
+                        <altitud>0</altitud>
+                    </coordenadasNacimiento>
+                </nacimiento>
+                <residencia lugarResidencia="Paris">
+                    <coordenadasResidencia>
+                        <longitud>2.259217945642413</longitud>
+                        <latitud>48.81104412080502</latitud>
+                        <altitud>0</altitud>
+                    </coordenadasResidencia>
+                </residencia>
+                <!--Minimo 1 imagen-->
+                <imagenes>
+                    <foto>imagen3.png</foto>
+                </imagenes>
+                <!--de 0 a 3 videos-->
+                <videos>
+                    <video>video2.mp4</video>
+                </videos>
+                <!--Tiene comentarios o no tiene-->
+                <comentarios>
+                    <comentario>Comentario 2</comentario>
+                </comentarios>
+            </datos>
+            <!--Pueden enlazarse 3 personas-->
+        </persona>
+        <persona nombre = "Fulgencio" apellidos="Estrada">
+            <datos>
+                <nacimiento>
+                    <fechaNacimiento>7-10-2000</fechaNacimiento>
+                    <lugarNacimiento>Madrid</lugarNacimiento>
+                    <coordenadasNacimiento>
+                        <longitud>-3.7159995162888815</longitud>
+                        <latitud>40.36685032559816</latitud>
+                        <altitud>0</altitud>
+                    </coordenadasNacimiento>
+                </nacimiento>
+                <residencia lugarResidencia="Madrid">
+                    <coordenadasResidencia>
+                        <longitud>-3.7159995162888815</longitud>
+                        <latitud>40.36685032559816</latitud>
+                        <altitud>0</altitud>
+                    </coordenadasResidencia>
+                </residencia>
+                <!--Minimo 1 imagen-->
+                <imagenes>
+                    <foto>imagen3.png</foto>
+                </imagenes>
+                <!--de 0 a 3 videos-->
+                <videos>
+                    <video>video1.mp4</video>
+                    <video>video2.mp4</video>
+                    <video>video3.mp4</video>
+                </videos>
+                <!--Tiene comentarios o no tiene-->
+                <comentarios>
+                    <comentario>Comentario 1</comentario>
+                    <comentario>Comentario 2</comentario>
+                    <comentario>Comentario 3</comentario>
+                    <comentario>Comentario 4</comentario>
+                </comentarios>
+            </datos>
+            <!--Pueden enlazarse 3 personas-->
+        </persona>
+    </persona>
+</persona>
